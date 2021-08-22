@@ -1,4 +1,4 @@
 # MyWebProject
 ## git intial repository
 
-` git push `
+` git init `
